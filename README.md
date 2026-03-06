@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋 I'm Methma Thathsarana
 
-<!--
-**MethmaThathsarana/MethmaThathsarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineering Enthusiast**
+Passionate about building software, solving problems, and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 👨‍💻 Name: **Methma Thathsarana**
+* 💼 Role: **Software Engineering**
+* 🌱 Currently learning and improving my skills in software development
+* ⚡ Interested in building useful and impactful applications
+
+---
+
+## 🛠️ Skills & Technologies
+
+* Programming
+* Software Development
+* Problem Solving
+* Git & GitHub
+* Web Technologies
+
+---
+
+## 📊 GitHub Stats
+
+![Methma's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/MethmaThathsarana
+
+---
+
+⭐ **Thanks for visiting my profile!**
